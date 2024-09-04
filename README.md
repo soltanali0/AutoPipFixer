@@ -31,13 +31,13 @@ python autopipfixer.py -c "your_command_here"
 For example:
 
 ```sh
-python autopipfixer.py -c "objection --gadget 'infosecadventures.allsafe' device-type"
+python pipfixer.py -c "objection --gadget 'infosecadventures.allsafe' device-type"
 ```
 
 ## Example
 
 ```sh
-python autopipfixer.py -c "python your_script.py"
+python pipfixer.py -c "python your_script.py"
 ```
 If your_script.py has any missing dependencies, AutoPipFixer will detect them and install them automatically.
 
