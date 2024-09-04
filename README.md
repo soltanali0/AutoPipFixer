@@ -25,7 +25,7 @@ cd AutoPipFixer
 Run the script with the command you want to execute:
 
 ```sh
-python autopipfixer.py -c "your_command_here"
+python pipfixer.py -c "your_command_here"
 ```
 
 For example:
