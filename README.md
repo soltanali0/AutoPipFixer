@@ -13,7 +13,7 @@ AutoPipFixer is a Python script that automatically installs missing Python packa
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/AutoPipFixer.git
+git clone https://github.com/soltanali0/AutoPipFixer
 ```
 Navigate to the project directory:
 ```sh
